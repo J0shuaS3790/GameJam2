@@ -6,33 +6,40 @@ body {
   margin-top: 1em;
   bottom: 0; right: 0; left: 0;
   height: 25%;
+  background: #000;
   overflow: auto;
 }
 
 /*p1 is the basic format*/
 p1 {
-  color: ffffff;
-  background: 000000;
+  color: #b8d5b8;
   font-family: Times New Roman, Times, serif;
 }
 
 /*p2 is a format used for written text in game such as notes or letters*/
 p2 {
-  color: lightblue;
-  background: ffffff;
+  color: #05a8aa;
+  background: #000;
   font-family: Lucida Handwriting, Brush Script M7, cursive;
 }
 
 /*p3 is a format used for digital text in game*/
 p3 {
-  color: green;
-  background: ffffff;
+  color: #dc602e;
+  background: #000;
   font-family: Lucida Console, Courier New, monospace;
 }
 
 /*p4 is a format used for buttons*/
 p4 {
-  color: blue;
-  background: ffffff;
+  color: #d7b49e;
+  background: #000;
+  font-family: Times New Roman, Times, serif;
+}
+
+/*p5 is a format used for death messages*/
+p5 {
+  color: #bc412b;
+  background: #000;
   font-family: Times New Roman, Times, serif;
 }
