@@ -41,3 +41,5 @@ keep going path: protag keeps walking, calling their dogs name until they eventu
 
 
 find home path: protag wanders around trying to use their memory as a map to find their house. They eventually end up a few doors down from their own home, only to hear their dog's bark on the other side of the road, heading over to reach him, only to hear him scamper off the path in the other direction.
+
+Addendum: I think it would be cool if the game ran on a relatively short loop where the player has to collect and investigate different things on the journey to the ending, perhaps as the player is sucked into whatever the light is accidentally and is forced to repeat the day canonically. This allows for a lot of content to be made via slight alterations with each repeat, with things growing more drastic and confusing and more puzzles popping up.
