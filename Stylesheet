@@ -1,0 +1,27 @@
+/*p1 is the basic format*/
+p1 {
+  color: ffffff;
+  background: 000000;
+  font-family: Times New Roman, Times, serif;
+}
+
+/*p2 is a format used for written text in game such as notes or letters*/
+p2 {
+  color: lightblue;
+  background: ffffff;
+  font-family: Lucida Handwriting, Brush Script M7, cursive;
+}
+
+/*p3 is a format used for digital text in game*/
+p3 {
+  color: green;
+  background: ffffff;
+  font-family: Lucida Console, Courier New, monospace;
+}
+
+/*p4 is a format used for buttons*/
+p4 {
+  color: blue;
+  background: ffffff;
+  font-family: Times New Roman, Times, serif;
+}
