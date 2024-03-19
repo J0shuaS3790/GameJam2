@@ -12,7 +12,7 @@ body {
 
 /*p1 is the basic format*/
 p1 {
-  color: #b8d5b8;
+  color: #fff;
   font-family: Times New Roman, Times, serif;
 }
 
