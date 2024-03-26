@@ -1,0 +1,17 @@
+/*content within the body shall be set to the bottom of the screen*/
+body {
+  position: fixed;
+  border-top: 2px #eee solid;
+  padding: 1em 12em;
+  margin-top: 1em;
+  bottom: 0; right: 0; left: 0;
+  height: 35%;
+  background: #000;
+  overflow: auto;
+  color: #fff;
+  font-family: Times New Roman, Times, serif;
+}
+ 
+#ui-bar{
+  display: none
+}
